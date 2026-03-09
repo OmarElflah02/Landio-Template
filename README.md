@@ -31,4 +31,4 @@ The layout is fully responsive and works on:
 
 ## 🔗 Live Demo
 
-You can view the live demo here:
+You can view the live demo here: https://omarelflah02.github.io/Landio-Template/
